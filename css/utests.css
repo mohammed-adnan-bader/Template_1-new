@@ -1,0 +1,33 @@
+.mg-bt-20 {
+    margin-bottom:20px;
+}
+.mg-bt-10 {
+    margin-bottom:10px;
+
+}
+.mg-bt-15 {
+    margin-bottom:15px;
+}
+.mg-bt-5 {
+    margin-bottom:5px;
+}
+.mg-bt-30 {
+    margin-bottom:30px;
+}
+/* =================================== */
+.capitalize {
+    text-transform:capitalize;
+}
+.uppercase {
+    text-transform:uppercase;
+}
+/* ===================================== */
+.float-left {
+    float:left;
+}
+/* ===================================== */
+.overflow {
+    overflow:hidden;
+}
+/* ================================== */
+
